@@ -45,6 +45,18 @@ ul {
     justify-content: center;
     margin-bottom: -3rem;
     margin-top: 8rem;
+    font-size: 1.5rem;
 }
 
+.item1 {
+    padding-right: 5em;
+}
 
+.item2 {
+    padding-left: 7em;
+    padding-right: 4em;
+}
+
+.item3 {
+    padding-left: 10em;
+}
