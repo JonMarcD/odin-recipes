@@ -1,26 +1,32 @@
 .hero-header {
     text-align: center;
-    margin-top: 10rem;
-    margin-bottom: 3rem;
+    margin-top: -1rem;
+    margin-bottom: -2rem;
+    font-size: 4rem;
 }
 
 h1 {
-    margin-bottom: -1rem;
+    margin-bottom: -5.5rem;
 }
 
 section {
     text-align: center;
-    margin-bottom: 5rem;
+    margin-bottom: -2rem;
+    font-size: 1.5rem;
 }
 
 .main-text {
-    margin-bottom: -1rem;
+    margin-bottom: -1.5rem;
 }
 
 img {
-    max-width: 40em;
+    max-width: 20em;
     max-height: 50em;
     object-fit: cover;
+}
+
+ul {
+    list-style: none;
 }
 
 .linklist {
@@ -34,13 +40,11 @@ img {
     padding: 5em 5em;
 }
 
-ul {
-    list-style: none;
-}
-
 .label {
     display: flex;
     justify-content: center;
     margin-bottom: -3rem;
     margin-top: 8rem;
 }
+
+
