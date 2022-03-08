@@ -60,3 +60,22 @@ ul {
 .item3 {
     padding-left: 10em;
 }
+
+/*.label {
+    text-align: center;
+    justify-content: center;
+}
+
+.label li {
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 2rem;
+    margin-bottom: -5em;
+    margin-top: 5rem;
+    padding: 0em 5em;
+}
+
+/* helpful css
+    text-transform: uppercase;
+    -webkit-transition: color 300ms ease-in-out;
+    transition: color 300ms ease-in-out;
